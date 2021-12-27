@@ -1,0 +1,36 @@
+{
+  "nombre": "christian",
+  "apellido": "calleja",
+  "edad": 35,
+  "precio_asiento": 940.4,
+  "pagado": true,
+  "asiento": {
+    "numero": 21,
+    "letra": "F",
+    "cargador": false
+  },
+
+  "historial": [
+    {
+      "salida": "Chicago",
+      "llegada": "New York",
+      "fechasalida": "10/10/2020",
+      "horasalida": "13:30",
+      "fechallegada": "10/10/2020",
+      "horallegada": "16:30"
+    },
+  ]
+},
+  {
+    "nombre": "Laura",
+    "apellido": "Salerno",
+    "edad": 38,
+    "precio_asiento": 940.4,
+    "pagado": true,
+    "asiento": {
+      "numero": 21,
+      "letra": "E",
+      "cargador": false
+    },
+ 
+
